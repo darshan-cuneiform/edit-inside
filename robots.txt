@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: https://www.editinside.com/privacy-policy
+Disallow: https://www.editinside.com/cookies-policy
+Disallow: https://www.editinside.com/terms-of-use
